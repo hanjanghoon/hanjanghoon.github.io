@@ -5,52 +5,58 @@ papers:
     venue: "EMNLP 2024"
     paper_pdf: "https://arxiv.org/abs/2404.16418"
     code: "https://github.com/CHLee0801/INSTA"
-    selected: y
-    
+    selected: true
+
   - title: "Exploring the Use of Natural Language Descriptions of Intents for Large Language Models in Zero-shot Intent Classification"
+    year: "2024"
     authors: "Taesuk Hong, Youbin Ahn, Dongkyu Lee, Joongbo Shin, Seungpil Won, <b><u>Janghoon Han</u></b>, Stanley Jungkyu Choi, Jungyun Seo"
     venue: "SIGDIAL 2024"
     paper_pdf: "https://aclanthology.org/2024.sigdial-1.39/"
-    selected: y
-    
+    selected: true
+
   - title: "Efficient Dynamic Hard Negative Sampling for Dialogue Selection"
+    year: "2024"
     authors: "<b><u>Janghoon Han</u></b>, Dongkyu Lee, Joongbo Shin, Hyunkyung Bae, Jeesoo Bang, Seonghwan Kim, Stanley Jungkyu Choi, Honglak Lee"
     venue: "NLP4ConvAI @ ACL 2024"
-    paper_pdf: "<b><u>Janghoon Han</u></b>, Dongkyu Lee, Joongbo Shin, Hyunkyung Bae, Jeesoo Bang, Seonghwan Kim, Stanley Jungkyu Choi, Honglak Lee"
+    paper_pdf: "https://github.com/hanjanghoon/EDHNS"
     code: "https://github.com/hanjanghoon/EDHNS"
-    selected: y
-    
+    selected: true
+
   - title: "Deep Exploration of Cross-Lingual Zero-Shot Generalization in Instruction Tuning"
+    year: "2024"
     authors: "<b><u>Janghoon Han*</u></b>, Changho Lee*, Joongbo Shin, Stanley Jungkyu Choi, Honglak Lee, Kyunghoon Bae"
     venue: "ACL 2024 Findings"
     paper_pdf: "https://arxiv.org/abs/2305.18952"
     code: "https://github.com/CHLee0801/KORANI-Instruction-Tuning"
-    selected: y
-    
+    selected: true
+
   - title: "Leveraging Ensemble Techniques and Metadata for Subjective Knowledge-grounded Conversational Systems"
     year: "2023"
     authors: "Seongho Joo, Kang-il Lee, Kyungmin Min, Joongbo Shin, <b><u>Janghoon Han</u></b>, Seungpil Won, Kyomin Jung"
     venue: "DSTC11 @ SIGDIAL 2023 (Best paper)"
     paper_pdf: "https://aclanthology.org/2023.dstc-1.23/"
-    selected: y
+    selected: true
 
   - title: "Local Temperature Beam Search: Avoid Neural Text DeGeneration via Enhanced Calibration"
+    year: "2023"
     authors: "Dongkyu Lee, Gyeonghun Kim, <b><u>Janghoon Han</u></b>, Taesuk Hong, Yi-Reun Kim, Stanley Jungkyu Choi, Nevin L. Zhang"
     venue: "ACL 2023 Findings"
     paper_pdf: "https://aclanthology.org/2023.findings-acl.628/"
-    selected: y
-    
+    selected: true
+
   - title: "BREAK: Breaking the dialogue state tracking barrier with beam search and re-ranking"
+    year: "2023"
     authors: "Seungpil Won, Heeyoung Kwak, Joongbo Shin, <b><u>Janghoon Han</u></b>, Kyomin Jung"
     venue: "ACL 2023"
     paper_pdf: "https://aclanthology.org/2023.acl-long.159/"
-    selected: y
-    
+    selected: true
+
   - title: "CECADA: Cause-Effect Conjunctive Adverb-based Data Augmentation Method in Low-Resource Knowledge-Grounded Dialogue"
-    authors: "Taesuk Hong, Dongkyu Lee, <b><u>Janghoon Han</u></b>, Stanley Jungkyu Choi , Jungyun Seo"
+    year: "2023"
+    authors: "Taesuk Hong, Dongkyu Lee, <b><u>Janghoon Han</u></b>, Stanley Jungkyu Choi, Jungyun Seo"
     venue: "Information Sciences, Knowledge Augmented Methods for NLP @ AAAI 2023"
     paper_pdf: "https://knowledge-nlp.github.io/aaai2023/papers/024-CECADA-poster.pdf"
-    selected: y
+    selected: true
 
   - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
     year: "2022"
@@ -58,43 +64,45 @@ papers:
     venue: "EMNLP 2022"
     paper_pdf: "https://arxiv.org/abs/2204.14211"
     code: "https://github.com/joeljang/temporalwiki"
-    selected: y
+    selected: true
 
   - title: "Towards Continual Knowledge Learning of Language Models"
+    year: "2022"
     image: "/assets/publications/2022_iclr/ckl.png"
     authors: "Joel Jang, Seonghyeon Ye, Sohee Yang, Joongbo Shin, <b><u>Janghoon Han</u></b>, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo"
     venue: "ICLR 2022"
     paper_pdf: "https://arxiv.org/abs/2110.03215"
     code: "https://github.com/joeljang/continual-knowledge-learning"
-    selected: y
+    selected: true
 
   - title: "External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems"
+    year: "2021"
     authors: "<b><u>Janghoon Han</u></b>, Joongbo Shin, Hosung Song, Hyunjik Jo, Gyeonghun Kim, Yireun Kim, Stanley Jungkyu Choi"
     venue: "Expert Systems with Applications (2021)"
     paper_pdf: "https://arxiv.org/abs/2209.02251"
-    code: "https://github.com/hanjanghoon/Weighted NS"
-    selected: y
+    code: "https://github.com/hanjanghoon/Weighted_NS"
+    selected: true
 
- - title: "External Knowledge Incorporated BERT for Retrieval-based Dialogue Systems"
+  - title: "External Knowledge Incorporated BERT for Retrieval-based Dialogue Systems"
     year: "2021"
-    authors: "<b><u>Janghoon Han</u></b>, Youngjoong Ko, Jungyun Seo "
+    authors: "<b><u>Janghoon Han</u></b>, Youngjoong Ko, Jungyun Seo"
     venue: "KTCP 2021"
     paper_pdf: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002785006/"
     code: "https://github.com/hanjanghoon/BERT_KP"
-    selected: y
+    selected: true
 
   - title: "Fine-grained Post-training for Improving Retrieval-based Dialogue Systems"
+    year: "2021"
     authors: "<b><u>Janghoon Han</u></b>, Taesuk Hong, Byoungjae Kim, Youngjoong Ko, Jungyun Seo"
     venue: "NAACL 2021"
     paper_pdf: "https://aclanthology.org/2021.naacl-main.122/"
     code: "https://github.com/hanjanghoon/BERT_FP"
-    selected: y
+    selected: true
 
   - title: "Korean Dependency Parsing Using Sequential Parsing Method Based on Pointer Network"
     year: "2020"
     authors: "<b><u>Janghoon Han</u></b>, Yeongjoon Park, Younghoon Jeong, Inkwon Lee, Jungwook Han, Seojun Park, Juae Kim, and Jeongyeon Seo"
-    venue: "Proceedings of the 31st Annual Conference on Human and Cognitive Language Technology, pp. 533-536, 201"
+    venue: "Proceedings of the 31st Annual Conference on Human and Cognitive Language Technology"
     paper_pdf: "https://koreascience.kr/article/CFKO201930060609812.pdf"
     code: "https://github.com/hanjanghoon/NLP_Koeran_DP"
-    selected: y
-
+    selected: true
