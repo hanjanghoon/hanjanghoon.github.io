@@ -93,7 +93,7 @@ papers:
   - title: "Korean Dependency Parsing Using Sequential Parsing Method Based on Pointer Network"
     year: "2020"
     authors: "<b><u>Janghoon Han</u></b>, Yeongjoon Park, Younghoon Jeong, Inkwon Lee, Jungwook Han, Seojun Park, Juae Kim, and Jeongyeon Seo"
-    venue: "Proceedings of the 31st Annual Conference on Human and Cognitive Language Technology"
+    venue: "Proceedings of the 31st Annual Conference on Human and Cognitive Language Technology (Grand Prize)"
     paper_pdf: "https://koreascience.kr/article/CFKO201930060609812.pdf"
     code: "https://github.com/hanjanghoon/NLP_Koeran_DP"
     selected: y
