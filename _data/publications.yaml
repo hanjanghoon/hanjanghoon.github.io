@@ -5,8 +5,6 @@ papers:
     venue: "EMNLP 2024"
     paper_pdf: "https://arxiv.org/abs/2404.16418"
     code: "https://github.com/CHLee0801/INSTA"
-    # slides: "https://docs.google.com/presentation/d/1biItlNm2R_N-fx9IreykvQSmI1eUi9B0-Hwtk3WKZow/edit?usp=sharing"
-    # twitter: "https://twitter.com/jang_yoel/status/1521468905281056768?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
     
   - title: "Exploring the Use of Natural Language Descriptions of Intents for Large Language Models in Zero-shot Intent Classification"
@@ -56,7 +54,6 @@ papers:
 
   - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
     year: "2022"
-    # image: "/assets/publications/2022_emnlp/temporalwiki.png"
     authors: "Joel Jang*, Seonghyeon Ye*, Changho Lee, Sohee Yang, Joongbo Shin, <b><u>Janghoon Han</u></b>, Gyeonghun Kim, Minjoon Seo"
     venue: "EMNLP 2022"
     paper_pdf: "https://arxiv.org/abs/2204.14211"
@@ -72,7 +69,6 @@ papers:
     selected: y
 
   - title: "External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems"
-    # image: "/assets/publications/2021_eswa/sequential.png"
     authors: "<b><u>Janghoon Han</u></b>, Joongbo Shin, Hosung Song, Hyunjik Jo, Gyeonghun Kim, Yireun Kim, Stanley Jungkyu Choi"
     venue: "Expert Systems with Applications (2021)"
     paper_pdf: "https://arxiv.org/abs/2209.02251"
