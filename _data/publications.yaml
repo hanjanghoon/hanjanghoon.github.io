@@ -69,7 +69,6 @@ papers:
     selected: y
 
   - title: "External Knowledge Selection with Weighted Negative Sampling in Knowledge-grounded Task-oriented Dialogue Systems"
-    year: "2021"
     authors: "<b><u>Janghoon Han</u></b>, Joongbo Shin, Hosung Song, Hyunjik Jo, Gyeonghun Kim, Yireun Kim, Stanley Jungkyu Choi"
     venue: "DSTC10 @ AAAI 2022"
     paper_pdf: "https://arxiv.org/abs/2209.02251"
@@ -77,6 +76,7 @@ papers:
     selected: y
 
   - title: "External Knowledge Incorporated BERT for Retrieval-based Dialogue Systems"
+    year: "2021"
     authors: "<b><u>Janghoon Han</u></b>, Youngjoong Ko, Jungyun Seo"
     venue: "KTCP 2021"
     paper_pdf: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002785006/"
